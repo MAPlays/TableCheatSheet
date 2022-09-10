@@ -1,0 +1,57 @@
+* {
+    background-color:teal;
+}
+
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-weight:bolder;
+    color:rgb(255, 255, 162);
+    font-style:italic;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2 {
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color:gold;
+    font-style: italic;
+    position: relative;
+    top: 30px;
+}
+
+table, th, td {
+    font-family: 'Space Mono', monospace;
+    background-color:peachpuff;
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: chocolate;
+    padding:5px 5px;
+    margin: 0 auto;
+}
+table{
+    position: relative;
+    top: 30px;
+}
+
+th {
+    background-color: coral;
+    text-align: center;
+    font-style: italic;
+}
+
+td {
+    color: darkslategray;
+    text-align: center;
+}
+
+.attribute {
+    position: relative;
+    top: 70px;
+}
+
+.description {
+    text-align: left;
+}
